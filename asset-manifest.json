@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Injection735/react-plaid/static/css/main.39a07460.chunk.css",
+    "main.js": "/Injection735/react-plaid/static/js/main.5c0f55db.chunk.js",
+    "main.js.map": "/Injection735/react-plaid/static/js/main.5c0f55db.chunk.js.map",
+    "runtime-main.js": "/Injection735/react-plaid/static/js/runtime-main.57cb9fa7.js",
+    "runtime-main.js.map": "/Injection735/react-plaid/static/js/runtime-main.57cb9fa7.js.map",
+    "static/js/2.2aef2c79.chunk.js": "/Injection735/react-plaid/static/js/2.2aef2c79.chunk.js",
+    "static/js/2.2aef2c79.chunk.js.map": "/Injection735/react-plaid/static/js/2.2aef2c79.chunk.js.map",
+    "index.html": "/Injection735/react-plaid/index.html",
+    "precache-manifest.45f2923aaed59bc78184f999fc322d1c.js": "/Injection735/react-plaid/precache-manifest.45f2923aaed59bc78184f999fc322d1c.js",
+    "service-worker.js": "/Injection735/react-plaid/service-worker.js",
+    "static/css/main.39a07460.chunk.css.map": "/Injection735/react-plaid/static/css/main.39a07460.chunk.css.map",
+    "static/media/logo.svg": "/Injection735/react-plaid/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57cb9fa7.js",
+    "static/js/2.2aef2c79.chunk.js",
+    "static/css/main.39a07460.chunk.css",
+    "static/js/main.5c0f55db.chunk.js"
+  ]
+}
