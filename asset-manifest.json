@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-plaid/static/css/main.39a07460.chunk.css",
-    "main.js": "/react-plaid/static/js/main.64c8e0a4.chunk.js",
-    "main.js.map": "/react-plaid/static/js/main.64c8e0a4.chunk.js.map",
-    "runtime-main.js": "/react-plaid/static/js/runtime-main.3505ed65.js",
-    "runtime-main.js.map": "/react-plaid/static/js/runtime-main.3505ed65.js.map",
-    "static/js/2.f8dc54a1.chunk.js": "/react-plaid/static/js/2.f8dc54a1.chunk.js",
-    "static/js/2.f8dc54a1.chunk.js.map": "/react-plaid/static/js/2.f8dc54a1.chunk.js.map",
-    "index.html": "/react-plaid/index.html",
-    "precache-manifest.f408680fedadf71a96b6995a87a4b3a9.js": "/react-plaid/precache-manifest.f408680fedadf71a96b6995a87a4b3a9.js",
-    "service-worker.js": "/react-plaid/service-worker.js",
-    "static/css/main.39a07460.chunk.css.map": "/react-plaid/static/css/main.39a07460.chunk.css.map",
-    "static/media/logo.svg": "/react-plaid/static/media/logo.25bf045c.svg"
+    "main.css": "/injection735/react-plaid/static/css/main.39a07460.chunk.css",
+    "main.js": "/injection735/react-plaid/static/js/main.ff9c5882.chunk.js",
+    "main.js.map": "/injection735/react-plaid/static/js/main.ff9c5882.chunk.js.map",
+    "runtime-main.js": "/injection735/react-plaid/static/js/runtime-main.7437a23b.js",
+    "runtime-main.js.map": "/injection735/react-plaid/static/js/runtime-main.7437a23b.js.map",
+    "static/js/2.33d17516.chunk.js": "/injection735/react-plaid/static/js/2.33d17516.chunk.js",
+    "static/js/2.33d17516.chunk.js.map": "/injection735/react-plaid/static/js/2.33d17516.chunk.js.map",
+    "index.html": "/injection735/react-plaid/index.html",
+    "precache-manifest.d65e889a27db8c9ff2137038ef7f42a8.js": "/injection735/react-plaid/precache-manifest.d65e889a27db8c9ff2137038ef7f42a8.js",
+    "service-worker.js": "/injection735/react-plaid/service-worker.js",
+    "static/css/main.39a07460.chunk.css.map": "/injection735/react-plaid/static/css/main.39a07460.chunk.css.map",
+    "static/media/logo.svg": "/injection735/react-plaid/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3505ed65.js",
-    "static/js/2.f8dc54a1.chunk.js",
+    "static/js/runtime-main.7437a23b.js",
+    "static/js/2.33d17516.chunk.js",
     "static/css/main.39a07460.chunk.css",
-    "static/js/main.64c8e0a4.chunk.js"
+    "static/js/main.ff9c5882.chunk.js"
   ]
 }
