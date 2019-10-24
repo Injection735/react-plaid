@@ -1,0 +1,176 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+        "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+.center-object {
+	margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+	margin-top: auto;
+}
+
+.user-name {
+    margin-left: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.user-balance {
+    margin-left: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.user-row {
+    display: flex;
+    width: 350px;
+    height: 50px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 4px;
+}
+
+#users-table-elements {
+    margin: auto;
+    width: 50%;
+    margin-top: 30px;
+}
+
+#users-table {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    font-family: Arial;
+}
+
+.title {
+  display: block;
+  text-align: center;
+  font-size: 32pt;
+}
+
+#card-parent {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 130px;
+    width: 100%;
+}
+
+.card {
+    width: 270px;
+    height: 350px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(108, 100, 100, 0.3);
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.pretty-img {
+    display: block;
+    width: 130px;
+    height: 130px;
+    margin-top: 16%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pretty-button {
+    border-style: solid;
+    border-color: rgb(40, 40, 40, 0.3);
+    border-radius: 47px;
+    background-color: rgb(40, 40, 40, 0);
+    width: 200px;
+    height: 45px;
+    transition-duration: 0.4s;
+}
+
+.pretty-button:hover {
+    transition: color .6s ease;
+    transition-duration: .4s;
+    background-color: rgb(200, 200, 200, 0.5);
+}
+
+.pretty-button:focus {
+    outline:none !important;
+    transition: color .6s ease;
+    background-color: rgb(150, 150, 150, 0.6);
+}
+
+.balance-title {
+    display: block;
+    text-align: center;
+}
+
+.table-title {
+    display: block;
+    text-align: center;
+}
+
+.customers-parent {
+    display: block;
+    margin-top: 30px;
+}
+
+#customers-table {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 800px;
+    min-height: 500px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(108, 100, 100, 0.3);
+    border-radius: 10px;
+}
+
+.customer {
+    width: 95%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90px;
+    background-color: rgb(240, 248, 255, 1);
+    border-radius: 10px;
+}
+
+.dwolla-customer {
+    font-size: 20px;
+}
+
+.dwolla-customer .left {
+
+}
+
+.dwolla-customer .center {
+
+}
+
+.dwolla-customer .right {
+
+}
